@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Jost:wght@200;400&family=Vidaloka&display=swap");
+
+:root {
+  --font-family: "Vidaloka", sans-serif;
+  --font-family-secondary: "Jost", sans-serif;
+  --color-font-primary: #fff;
+  --color-font-secondary: #1a2f42;
+  --color-font-third: #ff6f61;
+  --background-primary: #ff6f61;
+}
